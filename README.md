@@ -27,6 +27,10 @@
 ## Requirements
 [Requirements for the final project](https://docs.google.com/document/d/1De-UdZ8LpJt6tftlCsYcZz-BCyh8Nljz7KYO5DY00_8/edit?usp=sharing)
 
+## Environment
+
+Web Firefox 
+
 
 ## Usage
 - Anonymous User

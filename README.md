@@ -36,6 +36,7 @@
   eg. search "bumble" -> click "bumble bee" -> click Check Stock button
   
 - Buyer
+
   Login directs to the Personal Profile of a buyer with buyer address information.
   
   On Personal Profile, buyers can edit perosnal profile and address information, logout. Buyers can click Search drinks button, Browse products button, Browse stores button and My orders button to be directed to shopping page.
@@ -61,6 +62,7 @@
     Buyer will be displayed with all history orders, including receipt info, seller info and product info.
 
 - Seller
+
   Login directs to the Personal Profile of a seller with store information.
   
   On Personal Profile, sellers can edit personal profile and store information, logout, click Manage Store button to Seller Store Page.

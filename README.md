@@ -36,8 +36,44 @@
   eg. search "bumble" -> click "bumble bee" -> click Check Stock button
   
 - Buyer
+  Login directs to the Personal Profile of a buyer with buyer address information.
+  
+  On Personal Profile, buyers can edit perosnal profile and address information, logout. Buyers can click Search drinks button, Browse products button, Browse stores button and My orders button to be directed to shopping page.
+  
+  - Shopping Cart
+
+    Buyer will have a shopping cart that contains all products that have been added to the shopping cart. Buyer can edit/delete products in shopping cart and make an order with selected products by cliking the pay button.
+  
+  - Search drinks
+    
+    Buyer can type drink name and search the products in our website. If such drinks exist, users will be displayed all products with search drink from different sellers. Buyer can then add items to cart.
+    
+  - Browse stores
+
+    Buyer will be displayed with all stores in our website. Buyer can select a certain store and then will be displayed a list of products that selected store has and then add items to cart.
+    
+  - Browse products
+
+    Buyer will be displayed with all products in the website. Buyer can then add items to cart.
+    
+  - My orders
+
+    Buyer will be displayed with all history orders, including receipt info, seller info and product info.
 
 - Seller
+  Login directs to the Personal Profile of a seller with store information.
+  
+  On Personal Profile, sellers can edit personal profile and store information, logout, click Manage Store button to Seller Store Page.
+  
+  On Seller Store Page, it will display seller's store name, total revenue and all products that sellers created.
+  
+  - Add a new product
+    
+    Sellers can add a new product by selecting a category of the drink and then selecting the drink name. Sellers will also need type the quanity and unit price of the product. Then sellers can click Add Product button to add. Notice, we disallow duplicated products (seller should edit instead) and negative price or quantity of the new product.
+    
+  - Edit products
+    
+    Sellers can also edit existing products by clicking the editing button on the right. Sellers can then edit the quantity and the price of the selected product or delete the product from products list.
 
 - Admin
 

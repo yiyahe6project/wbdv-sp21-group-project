@@ -62,11 +62,11 @@
 
 ## Documentation
 React Github Repo: https://github.com/yiyahe6project/wbdv-sp21-final-project-yes-wr21-react 
-#
+
 React Deployment on Heroku: https://wbdv-sp21-final-project-react.herokuapp.com/
-#
+
 Node Server Github Repo: https://github.com/WenhaoGe/wbdv-sp21-group-node-server 
-#
+
 Node Server Deployment on Heroku: https://stark-escarpment-57387.herokuapp.com/
 
 Data Model Diagram: https://lucid.app/lucidchart/27c9ea15-542e-46d4-b066-5580168c1a38/edit?shared=true&page=0_0# 

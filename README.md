@@ -105,7 +105,7 @@ Web Firefox
 ## Documentation
 React Github Repo: https://github.com/yiyahe6project/wbdv-sp21-final-project-yes-wr21-react 
 
-React Deployment on Heroku: https://wbdv-sp21-final-project-react.herokuapp.com/
+React Deployment on Heroku: https://wbdv-sp21-final-p-client-react.herokuapp.com/
 
 Node Server Github Repo: https://github.com/WenhaoGe/wbdv-sp21-group-node-server 
 
